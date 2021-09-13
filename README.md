@@ -1,1 +1,1 @@
-# discord.js-stickymessage
+# Sticky Message Bot
